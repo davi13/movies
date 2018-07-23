@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("/images/background.jpg");
+  background-position: center;
+  background-size: cover;
+  font-size: 14px;
+}
+a {
+  color: #FFFFFF !important;
+}
+
+.card {
+  min-height: 650px;
+  margin-bottom: 15px;
+}
